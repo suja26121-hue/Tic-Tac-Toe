@@ -31,7 +31,6 @@ The game supports two-player gameplay with dynamic board updates, win/draw detec
 
 ## 📂 Project Structure
 
-```txt
 Tic-Tac-Toe-Game/
 │
 ├── main.cpp
